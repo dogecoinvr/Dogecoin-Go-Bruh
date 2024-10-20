@@ -1,6 +1,6 @@
-# VR Dogecoin Shooter
+# Dogecoin Go Bruh
 
-**VR Dogecoin Shooter** is an engaging and lightweight VR game designed for the Meta Quest 3. Dive into a fun and interactive experience, where you can shoot, attract, and interact with Dogecoin in a fully immersive environment.
+**Dogecoin Go Bruh** is an engaging and lightweight VR game designed for the Meta Quest 3. Dive into a fun and interactive experience, where you can shoot, attract, and interact with Dogecoin in a fully immersive environment.
 
 ## 🎮 How to Play  
 - **Shoot Dogecoin**: Pinch your right hand to launch Dogecoin from your virtual gun.  
